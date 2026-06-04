@@ -25,6 +25,9 @@ The bank wants to understand:
 * Data Visualization
 * Business Analytics
 
+## Dataset Overview
+The Dataset used is from https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset?resource=download
+
 ## Key Metrics
 
 * Total Customers
@@ -63,3 +66,11 @@ The bank wants to understand:
 
 This project demonstrates how data analytics can be used to identify churn patterns, support customer retention strategies, and generate actionable business insights through interactive dashboards.
 
+## What I Learned
+
+Through this project, I learned the importance of using churn rates rather than churn counts when comparing customer segments, and how data storytelling can transform raw metrics into actionable business recommendations.
+
+## Author
+Chiagozie Elobi
+
+Data Analyst | Customer Service Professional
